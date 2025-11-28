@@ -18,3 +18,4 @@ This is the code for the Vue.js [tutorial on Scotch.io](https://scotch.io/tutori
 
 If you would like to use a backend written in Go, [thewhitetulip](http://github.com/thewhitetulip) has written on. See [the source code](https://github.com/thewhitetulip/go-vue-events).
  
+Release IaC workflow successfully implemented 🚀
